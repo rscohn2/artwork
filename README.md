@@ -41,7 +41,6 @@ If you have a question about this policy or how to implement it, please reach ou
     <tr>
         <th width="120"></th>
         <th>horizontal</th>
-        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
