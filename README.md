@@ -77,4 +77,4 @@ Pull requests welcomed!
 
 Use of any trademark or logo is subject to the trademark policy available at [https://www.linuxfoundation.org/legal/trademarks](https://www.linuxfoundation.org/legal/trademarks). A list of the trademarks covered by this policy can be found at [https://www.linuxfoundation.org/legal/trademarks](https://www.linuxfoundation.org/legal/trademarks).
 
-Questions? Please email [trademark@uxlfoundation.org](mailto:trademark@uxlfoundation.org).
+Questions? Please email [trademark@linuxfoundation.org](mailto:trademark@linuxfoundation.org).
