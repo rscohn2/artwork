@@ -35,23 +35,36 @@ If you have a question about this policy or how to implement it, please reach ou
     </tr>
     <tr>
         <th width="120"></th>
-        <th colspan="1">PNG</th>
-        <th colspan="1">SVG</th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th width="120"></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-color.png" width="200"></td>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="./foundation/uxl-foundation-icon-color.png" width="75"></td>
+        <td><img src="./foundation/uxl-foundation-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-white.png" width="200"></td>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="./foundation/uxl-foundation-icon-white.png" width="75"></td>
+        <td><img src="./foundation/uxl-foundation-icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-black.png" width="200"></td>
         <td><img src="./foundation/uxl-foundation-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="./foundation/uxl-foundation-icon-black.png" width="75"></td>
+        <td><img src="./foundation/uxl-foundation-icon-black.svg" width="75"></td>
     </tr>
 </table>
 
