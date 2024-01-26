@@ -25,7 +25,7 @@ If you have a question about this policy or how to implement it, please reach ou
 
 ## Hosted projects
 
-* [oneAPI](./projects/oneapi)
+* [oneAPI](https://www.oneapi.io/resources/brand/) (Logo assets currently hosted on project website)
 
 ## Unified Acceleration Foundation Logos
 
