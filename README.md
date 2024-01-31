@@ -17,6 +17,10 @@ You should take the time to read and understand the [Trademark Policy](https://w
 
 The [Trademark Policy](https://www.linuxfoundation.org/legal/trademark-usage) is designed to strike a balance between enabling project communities to use them and protecting their value. For a list of marks covered by the [Trademark Policy](https://www.linuxfoundation.org/legal/trademark-usage), please see the [Trademark List](https://www.linuxfoundation.org/legal/trademarks). If you have questions, please reach out to [trademark@linuxfoundation.org](mailto:trademark@linuxfoundation.org).
 
+## QR Codes
+
+To make it easier to link to the UXL Foundation Slack workspace and mailing lists there are QR codes with the relevant hyperlinks. These can be used in presentations and leaflets and can be found in the qr_codes folder of this repository.
+
 ## Getting help
 
 If you have a question about this policy or how to implement it, please reach out to [operations@uxlfoundation.org](mailto:operations@uxlfoundation.org).
