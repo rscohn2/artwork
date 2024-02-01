@@ -69,6 +69,13 @@ If you have a question about this policy or how to implement it, please reach ou
     </tr>
 </table>
 
+### UXL Brand Colors
+These are the colors that make up the gradient:
+
+`Vibrant Purple #A600F2 (Pantone 2592 C)` 
+
+`Dark Grey Blue #263E71 (Pantone 534 C)`
+
 ## Preparing artwork for contribution
 
 If you plan to contribute artwork, please help us keep things consistent and organized by following these basic guidelines:
